@@ -1,0 +1,16 @@
+
+.list_table > tbody > tr > td:nth-child(5)
+{
+	text-align:right;
+}
+
+.list_table > tfoot > tr > td
+{
+	text-align:right;
+}
+
+.list_table > tfoot > tr > td:nth-child(1)
+{
+	font-weight:bold;
+}
+
