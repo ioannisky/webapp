@@ -35,7 +35,7 @@
 				<td><?=$price?></td>
 				<td><?=$line_total?></td>
 			</tr>
-		<?
+		<?php
 		$total+=$line_total_number;
 		$counter++;
 	}
